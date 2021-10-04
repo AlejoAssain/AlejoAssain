@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlejoAssain
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Django and React.js
+- 🌱 I’m currently learning some new technologies for Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: alejoassain00@gmail.com
 
