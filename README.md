@@ -1,6 +1,8 @@
 # Hi, I'm Alejo 👋
 
-Building practical systems that solve real-world problems.
+Software Developer focused on building practical systems, automation, and business tools.
+
+🌐 Portfolio: https://portfolio.alejoassain.com
 
 Currently working on:
 - 🏋️ Fitness club management platform
