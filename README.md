@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @AlejoAssain
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning some new technologies for Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: alejoassain00@gmail.com
+# Hi, I'm Alejo 👋
 
-<!---
-AlejoAssain/AlejoAssain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building practical systems that solve real-world problems.
+
+Currently working on:
+- 🏋️ Fitness club management platform
+- 🔐 Raspberry Pi access control system
+- 🤖 Automation tools
+- 🐳 Docker-based deployments
+
+Tech:
+- TypeScript
+- React
+- Django
+- Docker
+- PostgreSQL
+- Raspberry Pi
+
+> Building solutions. Automating the boring stuff.
