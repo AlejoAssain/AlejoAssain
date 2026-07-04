@@ -4,7 +4,7 @@ Software & Systems Developer | Entrepreneur
 
 I design and build software systems, automation workflows, infrastructure, and business solutions that solve real-world problems.
 
-🌐 Portfolio: https://portfolio.alejoassain.com
+🌐 Portfolio: portfolio.alejoassain.com
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
